@@ -1,0 +1,14 @@
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\bin\Debug\netcoreapp2.2\TodoAngularWhithApi.deps.json
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\bin\Debug\netcoreapp2.2\TodoAngularWhithApi.runtimeconfig.json
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\bin\Debug\netcoreapp2.2\TodoAngularWhithApi.runtimeconfig.dev.json
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\bin\Debug\netcoreapp2.2\TodoAngularWhithApi.dll
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\obj\Debug\netcoreapp2.2\TodoAngularWhithApi.csprojAssemblyReference.cache
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\obj\Debug\netcoreapp2.2\TodoAngularWhithApi.csproj.CoreCompileInputs.cache
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\obj\Debug\netcoreapp2.2\TodoAngularWhithApi.RazorAssemblyInfo.cache
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\obj\Debug\netcoreapp2.2\TodoAngularWhithApi.RazorAssemblyInfo.cs
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\obj\Debug\netcoreapp2.2\TodoAngularWhithApi.AssemblyInfoInputs.cache
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\obj\Debug\netcoreapp2.2\TodoAngularWhithApi.AssemblyInfo.cs
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\obj\Debug\netcoreapp2.2\TodoAngularWhithApi.RazorTargetAssemblyInfo.cache
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\bin\Debug\netcoreapp2.2\TodoAngularWhithApi.pdb
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\obj\Debug\netcoreapp2.2\TodoAngularWhithApi.dll
+C:\Users\niku\source\repos\TodoAngularWhithApi\TodoAngularWhithApi\obj\Debug\netcoreapp2.2\TodoAngularWhithApi.pdb
